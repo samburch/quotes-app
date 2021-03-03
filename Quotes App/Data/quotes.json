@@ -1,0 +1,43 @@
+[
+    {
+        "image": "ambition",
+        "quote": "I want to develop my own app",
+        "author": "Sam Burch",
+        "fullquote": ["It would be an amazing achievement for a dyslexic person like me who has always shit at mathematics and struggled with logical reasoning",
+            "to be able to build a fully functional app that is released to the app store",
+            "built with my own bare hands which I can turn around to my friends and family and say - look everyone, i built this!"]
+    },
+    {
+        "image": "calm",
+        "quote": "I  must remain patient and mindful",
+        "author": "Sam Burch",
+        "fullquote": ["It's not going to be an easy task to build an app.",
+            "However if I stick with the lessons and do at least a couple of hours practice per day.",
+            "I will become fluent with XCode and the iOS Swift development process."]
+    },
+    {
+        "image": "focus",
+        "quote": "With time and commitment, results will come",
+        "author": "Sam Burch",
+        "fullquote": ["this is a very long line which is not easily readble.",
+            "so i would like to write it in multiple lines.",
+            "but, i do NOT require any new lines in the output."]
+    },
+    {
+        "image": "reflect",
+        "quote": "This was a tough challenge but you perservered",
+        "author": "Sam Burch",
+        "fullquote": ["You kept going when thigs got hard.",
+            "If you didn't understand somethign then you stuck with it.",
+            "You never rested until you reached your end goals."]
+    },
+    {
+        "image": "reflect2",
+        "quote": "Looks like Laura wants me to walk the dog now",
+        "author": "Laura Burch",
+        "fullquote": ["Well this was a lot of fun and very complex at times",
+            "However it looks as though Laura wants me to walk Ghost our dog now",
+            "I should take some time to stop, reflect on what I have achieved and most importantly, get some fresh air!"]
+    }
+    
+]
