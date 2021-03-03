@@ -21,7 +21,7 @@ struct Quotes: View {
                 VStack {
                     
                     Text("Inspirational quotes")
-                        .font(/*@START_MENU_TOKEN@*/.headline/*@END_MENU_TOKEN@*/)
+                        .font(.largeTitle)
                     
                     // Loop through each QuoteModel and output to QuoteCard
                     ForEach(model.quote) { q in
